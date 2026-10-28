@@ -1,0 +1,15 @@
+.carte-contenu {
+    padding: 20px;
+}
+
+.carte-article {
+    margin-bottom: 24px;
+}
+
+.carte-contenu h3 {
+    margin: 0; 
+}
+
+.carte-contenu p {
+    margin: 12px 0; 
+}
