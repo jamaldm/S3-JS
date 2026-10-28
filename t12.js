@@ -31,4 +31,5 @@ console.log("CA Total :", somme);
 console.log("Vente maximale :", max);
 console.log("Vente minimale :", min);
 console.log("Nombre de ventes exceptionnelles :", compteurExceptionnelles);
-console.log("CA des ventes exceptionnelles :", sommeExceptionnelles);
+console.log("CA des ventes exceptionnelles :", sommeExceptionnelles); 
+
