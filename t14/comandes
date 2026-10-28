@@ -1,6 +1,6 @@
 1.Vérifier l'état du projet
 git status
-
+ 
 2. Préparer la modification
 git add index.html
 
