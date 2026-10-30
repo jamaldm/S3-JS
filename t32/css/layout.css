@@ -79,5 +79,6 @@
 
 .conteneur-pied-de-page{
     display: flex;
-    flex-direction: row;
+    column-gap: 48px;
+    
 }
