@@ -1,0 +1,69 @@
+body {
+   margin: 10px 0px;
+    font-family: Arial,sans-serif;
+    background: radial-gradient(circle at center, #6b21a8 0%, #1e1b4b 60%, #09090b 100%);
+    background-color: #09090b;
+    color: #ffffff;
+    min-height: 100vh;
+}
+
+header img {
+    height: 620px;
+    width: 100%;
+    position: relative;
+    bottom: 30px;
+}
+
+.navbar h2 {
+    font-size: 28px;
+    padding-right: 700px;
+    color: #55c4fe;
+    position: relative;
+    top: 12px;
+}
+.navbar{
+display: flex;
+left: 50px;
+bottom: 650px;
+position: relative;
+right : 80px;
+max-width: 1200px;
+}
+.navbar a {
+color: #55c4fe;
+text-decoration: none;
+position: relative;
+top: 40px;
+padding-left: 20px;
+}
+
+.lescartes {
+    display: flex;
+}
+main {
+    text-align: center;
+    margin-top: -80px;
+    position: relative;
+    bottom: 41px;
+}
+.carte img {
+    width: 100%;           
+    height: 300px;              
+    margin: 15px 0;  
+}
+.carte {
+background-color: #55c4fe;
+color: #eff6fd;
+margin: 10px 10px;
+padding: 10px 40px;
+border-radius: 30px;
+}
+.apropos img {
+    height: 100px;
+    width: 100px;
+}
+.apropos {
+    text
+}
+
+
