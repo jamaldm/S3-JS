@@ -1,0 +1,63 @@
+body {
+    background-color: #09090b;
+    background: radial-gradient(circle at center, #6b21a8 0%, #1e1b4b 60%, #09090b 100%);
+    color: beige;
+    margin: 0;
+    
+}
+.navbar {
+    display: flex;
+}
+.navbar h2 {
+    padding-right: 800px;
+    padding-left: 40px;;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.navbar a {
+    text-decoration: none;
+    color: beige;
+    padding-top: 30px;
+    padding-left: 15px;
+}
+header img {
+    height: 700px;
+    width: 100%;
+}
+h2 {
+    text-align: center;
+}
+.detqilsapropos {
+    display: flex;
+}
+.detqilsapropos img {
+    height: 600px;
+    width: 800px;
+}
+.detqilsapropos p {
+    padding-top: 200px;
+}
+.mesprojets {
+    display: flex;
+    gap: 40px;
+    padding: 20px 20px;
+    margin-bottom: 250px;
+}
+.carte {
+    background-color: black;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.carte img {
+height: 100%;
+width: 300px;
+border-radius: 10px;
+padding: 10px 10px;
+}
+footer {
+    text-align: center;
+}
+footer img {
+    height: 50px;
+    width: 50px;
+}
